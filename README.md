@@ -3,10 +3,10 @@
                               
 ## 1.搜索相关
 ### 关键词搜索话题
-请求URL：
-/api/v1/douyin/search/topics
-请求方式：
-GET
+
+请求URL|请求方式|
+--|:--:|
+/api/v1/douyin/search/topics|get|
 
 ### 关键词搜索视频
 请求URL：
@@ -24,7 +24,7 @@ GET
 ### 关键词搜索地址
 请求URL：
 /api/v1/douyin/search/locations
-### 请求方式：
+请求方式：
 GET
 
 ### 关键词搜索直播
