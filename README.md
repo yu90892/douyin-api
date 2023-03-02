@@ -74,11 +74,13 @@
 ### 用户喜欢列表
 请求URL|请求方式|
 --|:--:|
+
 /api/v1/douyin/user/favorites|get|
 
 ### 用户关注列表
 请求URL|请求方式|
 --|:--:|
+
 /api/v1/douyin/user/following|get|
 
 ### 用户橱窗商品列表
